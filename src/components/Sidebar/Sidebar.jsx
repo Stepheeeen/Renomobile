@@ -11,7 +11,7 @@ const Sidebar = () => {
     <div className={Style.sidebar}>
       <div className={Style.profile}>
         <div className={Style.avatar}>
-        <RxAvatar />
+        <RxAvatar className={Style.avatarImg}/>
         </div>
         <div className={Style.user}>
           <h3 className={Style.name}>Username</h3>
