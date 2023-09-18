@@ -19,6 +19,12 @@ const Sidebar = () => {
         </div>
       </div>
 
+      <div className={Style.playstore}>
+        <a href="#">
+          <img src="https://renomobilemoney.com/images/dd.png" alt="" srcset="" />
+        </a>
+      </div>
+
       <ul>
         <li>
           <a href="#">
