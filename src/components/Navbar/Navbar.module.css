@@ -1,8 +1,11 @@
 .navbar{
     height: 80px;
-    width: calc(100% - 25.5%);
-    border: 1px solid #000;
+    width: calc(100% - 22.5%);
+    padding-left: 10px;
+    /* border: 1px solid#808080; */
+    box-shadow: 0 3px 6px 0 #dbd9d9;
     position: fixed;
+    border-left: none;
     top: 0;
     right: 0;
 }
